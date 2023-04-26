@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Asset
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sagar
+Implementation-Vendor-Id: com.assetmanagemnt
+Build-Jdk: 1.8.0_341
+Implementation-URL: https://spring.io/projects/spring-boot/Asset
+Created-By: Maven Integration for Eclipse
+
